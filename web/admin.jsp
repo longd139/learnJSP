@@ -28,7 +28,7 @@
 
         %>
         <h1>Welcome, Admin <%=name%></h1>
-
+        <h2>title</h2>
         <h2>Search user</h2>
         <form action="MainController">
             <%
